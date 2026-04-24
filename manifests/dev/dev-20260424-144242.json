@@ -1,0 +1,9 @@
+{
+    "contentVersion":  "dev-20260424-144242",
+    "startupSceneName":  "",
+    "startupSceneAddressableKey":  "scene/main-menu",
+    "remoteCatalogUrl":  "https://vyassathya.github.io/brainrot-brawl-content/content/dev/dev-20260424-144242/iOS/catalog_0.1.0.bin",
+    "minClientBuild":  "",
+    "forceFallbackScene":  false,
+    "message":  "Brainrot Brawl dev content dev-20260424-144242"
+}
