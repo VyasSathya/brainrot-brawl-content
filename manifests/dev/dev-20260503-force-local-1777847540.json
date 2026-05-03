@@ -1,0 +1,9 @@
+{
+  "contentVersion": "dev-20260503-force-local-1777847540",
+  "startupSceneName": "",
+  "startupSceneAddressableKey": "scene/main-menu",
+  "remoteCatalogUrl": "",
+  "minClientBuild": "1777847540",
+  "forceFallbackScene": true,
+  "message": "Force bundled TestFlight menu and Mad Balls while stale remote catalog is disabled."
+}
